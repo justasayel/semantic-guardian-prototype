@@ -23,7 +23,7 @@ The **Surveys** page represents the environment where survey responses are submi
 
 ## Validation Rules Interface
 
-![Validation Rules](Validation Rules.jpeg)
+![Validation Rules](Validation_Rules.jpeg)
 
 The **Validation Rules** interface displays the logical conditions used to identify inconsistent answers. These rules simulate the reasoning layer of the intelligent validator, checking relationships between fields such as job titles and qualifications, age and experience, or marital status and number of children.
 
